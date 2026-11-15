@@ -1,2 +1,17 @@
 publish_to: 'none',
 version: 1.0.0+1
+Flutter code step by step 
+import 'package: flutter/material.dart'
+void main 
+curly braces open,
+runApp,bracket,
+MyApp,bracket, semicolon, )
+class MyApp extends StatelessWidget,
+curly (@override Widget build,
+BuildContext context.
+curly braces, 
+return MaterialApp
+bracket, title colon
+'FAB Water Life',
+home to Scaffold,
+fix home to Scaffold"
