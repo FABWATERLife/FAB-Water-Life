@@ -1,0 +1,1 @@
+name: fab_water_life_app description: Water Reminder and Tracker App publish_to: 'none' version: 1.0.0+1 environment: sdk: '>=3.0.0 <4.0.0 dependencies: flutter: sdk: flutter flutter: uses-material-design: true ध्यान रहे, fab_water_life_app कोड की पहली 
